@@ -37,7 +37,8 @@ public class Rect
 	this.w = w;
 	this.h = h;
     }
-    
+
+    /*
     public double aspectRatio()
     {
         return Math.max(w/h, h/w);
@@ -55,6 +56,7 @@ public class Rect
     {
         return new Rect(x,y,w,h);
     }
+    */
     
     public String toString()
     {
