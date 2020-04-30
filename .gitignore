@@ -1,8 +1,9 @@
-*.apk
-*.ap_
-*.dex
-*.class
-bin/
-gen/
-local.properties
-proguard/
+*.iml
+.gradle
+/local.properties
+/.idea/*
+.DS_Store
+/build
+/gradle
+/captures
+.externalNativeBuild
